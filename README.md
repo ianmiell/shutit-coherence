@@ -1,1 +1,1 @@
-# shutit-coherence
+shutit_coherence: description of module directory in here
